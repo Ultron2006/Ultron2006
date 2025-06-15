@@ -14,8 +14,8 @@ Welcome to my GitHub profile — I’m an aspiring Robotics & AI Engineer curren
 ## 🤝 Collaboration & Learning
 
 - 👨‍💻 Looking to collaborate on **beginner robotics, Python AI projects, or mini automation builds**
-- 📬 Reach me on [LinkedIn](https://linkedin.com/in/yourprofile) or via email: `youremail@example.com`
-- 🌱 Always open to mentorship, project ideas, or study groups!
+- 📬 Reach me on [LinkedIn](https://linkedin.com/in/yourprofile) or via email: "siddhanthirave2006@gmail.com
+- 🌱 Always open to mentorship, Learning, project ideas, or study groups!
 - 
 ## 😄 Fun Fact
 
