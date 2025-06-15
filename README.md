@@ -1,4 +1,4 @@
-# 👋What's up, I’m Siddhantlt[Ultron2006]!
+# 👋What's up, I’m Siddhant[Ultron2006]!
 
 Welcome to my GitHub profile — I’m an aspiring Robotics & AI Engineer currently building my foundations in technology and innovation.
 
